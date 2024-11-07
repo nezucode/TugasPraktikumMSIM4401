@@ -1,5 +1,5 @@
 //No 1
-/*
+
 console.log("Perulangan 10 ke-1:");
 let sum1 = 0;
 for(let i = 1; i<10; i++){
@@ -39,7 +39,7 @@ console.log(sum3);
 console.log("-------------");
 console.log("-------------");
 
-*/
+
 //No 2
 console.log("Perulangan menampilkan nilai 1 sampai 20");
 var i = 0;
